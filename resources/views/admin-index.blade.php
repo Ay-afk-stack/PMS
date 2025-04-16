@@ -120,7 +120,7 @@
         data: {
           labels: labels,
           datasets: [{
-            label: 'Total Sales Amount (₱)',
+            label: 'Total Sales Amount (Rs)',
             data: totals,
             backgroundColor: 'rgba(54, 162, 235, 0.6)',
             borderColor: 'rgba(54, 162, 235, 1)',
